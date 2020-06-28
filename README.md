@@ -1,5 +1,5 @@
 # Network Cache Prediction
-Exploring Network Cache Prediction to increase Users QoE. The idea to predict users request based on users request pattern and then prefetch the data to reduce latency.
+Exploring Network Cache Prediction to increase Users QoE. The idea to predict users request based on their request pattern and then prefetch the data to reduce latency.
 
 The algorithms Explored include:
 * ARIMA
